@@ -3,5 +3,7 @@ Aqui estão armazenadas as informações associadas ao minicurso "Introdução �
 
 # Estrutura
 Pasta data: possui os dados de exemplo utilizados para execução dos scripts;
+
 Pasta docs: contem a apresentação e um rápido tutorial de instalação do software;
+
 Pasta R: contem os scripts criados com toda a rotina de trabalho da exposição.
